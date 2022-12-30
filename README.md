@@ -3,7 +3,6 @@
 
 [![Instagram: Mesh.Hydra](https://img.shields.io/badge/-MesHydra-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/mesh.hydra//)](https://Instagram.com/mesh.hydra/)
 [![Twitter: Meshydra](https://img.shields.io/twitter/follow/Meshydra?style=social)](https://twitter.com/Meshydra)
-[![Linkedin: meshith-ariyawansa](https://img.shields.io/badge/-Meshydra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meshith-ariyawansa/)](https://www.linkedin.com/in/meshith-ariyawansa/)
 [![GitHub Meshydra](https://img.shields.io/github/followers/Meshydra?label=follow&style=social)](https://github.com/Meshydra)
 
 
@@ -11,7 +10,7 @@
 
 ```javascript
 const Mesh = {
-  name: "Meshith Ariyawansa",
+  name: "Mesh",
   location: "Sri Lanka",
   pronouns: "he" | "him",
   interests: [Anime, Games, Coding]
