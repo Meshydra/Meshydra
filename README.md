@@ -1,17 +1,7 @@
 <h2> Hey, I'm Mesh! <img src="https://www.freeiconspng.com/uploads/pikachu-transparent-hd-1.png" width="50"></h2>
 <p><em> I am Currently Learning Mobile Development but I try to stay up to date with other technolgies</em></p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/meshith-ariyawansa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/meshydra_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://withkoji.com/@Meshydra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
+
 
 ###
 
@@ -27,7 +17,7 @@ const Mesh = {
 }
 ```
 ### <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28b4073e-6177-4119-98a0-7ad5e3c5d6bb/dag0cvp-dec7d2ea-d836-42c9-ac5e-fdf4067e02cf.png/v1/fill/w_1024,h_1631,strp/puck_sitting_by_yisto_dag0cvp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYzMSIsInBhdGgiOiJcL2ZcLzI4YjQwNzNlLTYxNzctNDExOS05OGEwLTdhZDVlM2M1ZDZiYlwvZGFnMGN2cC1kZWM3ZDJlYS1kODM2LTQyYzktYWM1ZS1mZGY0MDY3ZTAyY2YucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.FI4ZYo-ho66YDaW-qs-0ne5vG-NFWGYMfZr-n12v-I8" width="25"> Coding Languages I am currently practicing...
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
@@ -43,7 +33,22 @@ const Mesh = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 </div>
 
+ ###
+ 
  <em><b>I love connecting with new people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em><br>
+ ###
+ <em><b>Click to view my other socials:</em><br>
+ <div align="left">
+  <a href="https://www.linkedin.com/in/meshith-ariyawansa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/meshydra_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://withkoji.com/@Meshydra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+</div>
  
 ---
 <br clear="both">
