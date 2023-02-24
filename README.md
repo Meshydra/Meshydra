@@ -25,9 +25,12 @@ const Mesh = {
 </p>
 
  <em><b>I love connecting with new people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em><br>
-
-![](https://github-readme-stats.vercel.app/api?username=Meshydra&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+<div style="display: flex; justify-content: center; align-items: center; height: 100%; width: 100%;">
+  <!-- links content here -->
+  ![](https://github-readme-stats.vercel.app/api?username=Meshydra&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meshydra&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
