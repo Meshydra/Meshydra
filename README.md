@@ -25,9 +25,11 @@ const Mesh = {
 </p>
 
  <em><b>I love connecting with new people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em><br>
- <div style="margin:auto">
- ![](https://github-readme-stats.vercel.app/api?username=Meshydra&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Meshydra&theme=blue-green&hide_border=false)<br/>
+ <div>
+ ![](https://github-readme-stats.vercel.app/api?username=Meshydra&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Meshydra&theme=blue-green&hide_border=false)<br/><br/>
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meshydra&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  </div>
  
