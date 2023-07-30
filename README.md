@@ -1,10 +1,6 @@
 <h2> Hey, I'm Mesh! <img src="https://www.freeiconspng.com/uploads/pikachu-transparent-hd-1.png" width="50"></h2>
 <p><em> I am Currently Learning Mobile Development but I try to stay up to date with other technolgies</em></p>
 
-[![](https://visitcount.itsvg.in/api?id=meshydra&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 ###
 
 
