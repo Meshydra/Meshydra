@@ -1,5 +1,5 @@
 <h2> Hey, I'm Mesh! <img src="https://www.freeiconspng.com/uploads/pikachu-transparent-hd-1.png" width="50"></h2>
-<p><em> I am Currently Learning Mobile Development but I try to stay up to date with other technolgies</em></p>
+<p><em> I am Currently Learning AI Development but I try to stay up to date with other technolgies</em></p>
 
 ###
 
@@ -34,6 +34,13 @@ const Mesh = {
   </a>
   <a href="https://withkoji.com/@Meshydra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+   <a href="https://www.kaggle.com/meshydra" target="_blank">
+    <img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+   </a>
+   <a href="https://leetcode.com/Meshydra/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
  
